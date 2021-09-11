@@ -1,4 +1,4 @@
-namespace NHCS_110.Models
+namespace NHCS.Models
 {
     public class ErrorViewModel
     {

@@ -1,13 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using NHCS_110.Models;
-using System;
-using System.Collections.Generic;
+using NHCS.Models;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace NHCS_110.Controllers
+namespace NHCS.Controllers
 {
     public class HomeController : Controller
     {
